@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3dd1c32-de14-4625-a792-ef78e3865709" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ans.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ganeshjagrut-mgs"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/exelynt-learning-platform/java-programming-assignment-40251-ganesh.git",
+    "accountId": "48a2f55c-d92f-4e1f-90e4-9e4c9d6c2e30"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3MgHnkr86dhDPocNcxwSixJOJ4s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "understanding-version-control-git-and-github-week1-38",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mgs/Desktop/java-programming-assignment-40251-ganesh"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3dd1c32-de14-4625-a792-ef78e3865709" name="Changes" comment="" />
+      <created>1795765459774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795765459774</updated>
+    </task>
+    <servers />
+  </component>
+</project>
